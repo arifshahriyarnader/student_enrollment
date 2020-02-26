@@ -1,0 +1,6 @@
+Admin tbl->1.admin id 2.admin name 3.admin email 4.admin password 5.admin phone
+
+Student tbl->1.student id 2.student name 3.student fathers name 4. student mothers name 5. student roll 6.student image
+ 7.student email 8.student password 9. stuent_info_tbl_student_roll
+student_info_tble -> 1.student_roll 2.Student_address 3.student_area 4.student_clg 5.student_mobl
+
